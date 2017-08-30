@@ -1,0 +1,97 @@
+
+7월 21, 2017 10:07:43.79 NEW SESSION
+7월 21, 2017 10:07:43.79 [1708:3600:0721/100743.797:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+
+7월 24, 2017 09:06:30.44 NEW SESSION
+7월 24, 2017 09:06:30.44 [3620:3024:0724/090630.444:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+7월 25, 2017 11:21:47.77 NEW SESSION
+7월 25, 2017 11:21:47.77 [2256:4244:0725/112147.757:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 25, 2017 11:22:13.88 [2256:4244:0725/112213.882:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 25, 2017 12:15:35.72 [4912:4764:0725/121535.722:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 25, 2017 14:17:37.71 [5792:5668:0725/141737.710:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 25, 2017 17:10:22.72 [5324:4824:0725/171022.722:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+7월 26, 2017 09:17:28.69 NEW SESSION
+7월 26, 2017 09:17:28.69 [4564:4708:0726/091728.695:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+7월 26, 2017 13:54:57.53 [4948:3460:0726/135457.531:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+7월 26, 2017 17:12:00.87 [4948:3564:0726/171200.873:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 26, 2017 17:15:39.33 [4948:3564:0726/171539.330:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 26, 2017 17:43:09.90 [4948:3460:0726/174309.908:ERROR:CONSOLE(280)] "Error: Object properties is empty", source: chrome-devtools://devtools/bundled/inspector.js (280)
+7월 26, 2017 17:43:09.90 [4948:3460:0726/174309.909:ERROR:CONSOLE(280)] "Error: Object properties is empty", source: chrome-devtools://devtools/bundled/inspector.js (280)
+7월 26, 2017 17:43:09.90 [4948:3460:0726/174309.909:ERROR:CONSOLE(280)] "Error: Object properties is empty", source: chrome-devtools://devtools/bundled/inspector.js (280)
+7월 26, 2017 17:43:09.90 [4948:3460:0726/174309.909:ERROR:CONSOLE(280)] "Error: Object properties is empty", source: chrome-devtools://devtools/bundled/inspector.js (280)
+7월 26, 2017 17:43:09.90 [4948:3460:0726/174309.909:ERROR:CONSOLE(280)] "Error: Object properties is empty", source: chrome-devtools://devtools/bundled/inspector.js (280)
+7월 26, 2017 19:11:26.53 [4948:3460:0726/191126.531:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+7월 26, 2017 19:53:57.74 [4948:3564:0726/195357.744:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+7월 26, 2017 19:53:58.46 [4948:3564:0726/195358.466:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+7월 28, 2017 13:51:33.90 NEW SESSION
+7월 28, 2017 13:51:33.90 [4164:460:0728/135133.899:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+7월 28, 2017 16:54:54.71 [4164:4676:0728/165454.695:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+
+7월 31, 2017 10:08:14.37 NEW SESSION
+7월 31, 2017 10:08:14.37 [4084:4116:0731/100814.372:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+7월 31, 2017 12:35:22.51 [4084:4116:0731/123522.515:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 10, 2017 17:11:09.90 NEW SESSION
+8월 10, 2017 17:11:09.90 [792:2220:0810/171109.904:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 10, 2017 17:12:25.27 [792:2220:0810/171225.271:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 10, 2017 17:13:59.22 [792:2220:0810/171359.222:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 10, 2017 17:29:27.38 [792:2220:0810/172927.380:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 16, 2017 14:00:30.71 NEW SESSION
+8월 16, 2017 14:00:30.71 [4632:7164:0816/140030.718:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 16, 2017 14:37:59.43 [4632:7164:0816/143759.437:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 16, 2017 16:01:43.33 [4632:7164:0816/160143.333:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 16, 2017 17:52:24.65 [4632:6484:0816/175224.652:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+8월 16, 2017 19:06:58.56 [4632:6484:0816/190658.560:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+8월 17, 2017 12:34:07.81 NEW SESSION
+8월 17, 2017 12:34:07.81 [2552:4936:0817/123407.814:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 17, 2017 13:52:00.96 NEW SESSION
+8월 17, 2017 13:52:00.96 [5132:6192:0817/135200.962:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 17, 2017 14:24:06.99 [5132:6192:0817/142406.996:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 17, 2017 17:30:33.01 [5132:6192:0817/173033.017:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 18, 2017 09:12:35.31 NEW SESSION
+8월 18, 2017 09:12:35.31 [6116:3800:0818/091235.311:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 18, 2017 09:58:59.49 [6116:3800:0818/095859.497:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 18, 2017 14:41:06.07 [6116:3800:0818/144106.070:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 18, 2017 14:42:26.00 [6116:3800:0818/144226.001:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 18, 2017 14:42:30.52 [6116:3800:0818/144230.526:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 18, 2017 16:03:26.65 [6116:3800:0818/160326.654:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 18, 2017 16:03:30.61 [6116:3800:0818/160330.613:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 21, 2017 15:39:23.41 NEW SESSION
+8월 21, 2017 15:39:23.41 [1956:5644:0821/153923.411:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 21, 2017 15:39:23.43 [1956:5644:0821/153923.430:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 21, 2017 15:39:30.34 [1956:5644:0821/153930.341:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 21, 2017 15:44:43.58 [1956:5644:0821/154443.585:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 21, 2017 16:10:05.45 [1956:5644:0821/161005.458:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 28, 2017 09:53:58.60 NEW SESSION
+8월 28, 2017 09:53:58.60 [5164:5316:0828/095358.602:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 28, 2017 10:13:40.04 [5304:6484:0828/101340.045:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 28, 2017 10:19:16.33 [5304:6484:0828/101916.332:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 28, 2017 10:47:32.60 [7152:5156:0828/104732.605:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 28, 2017 11:21:44.97 [7152:5156:0828/112144.971:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 29, 2017 09:39:22.80 NEW SESSION
+8월 29, 2017 09:39:22.80 [5612:3836:0829/093922.805:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 29, 2017 09:53:56.95 [5612:3836:0829/095356.957:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 29, 2017 09:57:36.17 [5612:3836:0829/095736.177:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+8월 29, 2017 09:58:46.92 [5612:3836:0829/095846.924:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+8월 29, 2017 10:02:32.49 [5612:3836:0829/100232.494:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+8월 29, 2017 10:02:57.39 [5612:3836:0829/100257.393:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 29, 2017 10:09:51.73 [5612:3836:0829/100951.730:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 29, 2017 11:31:44.59 [5412:6584:0829/113144.595:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 29, 2017 11:56:26.79 [916:6408:0829/115626.792:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+8월 29, 2017 12:02:10.31 [916:6408:0829/120210.318:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 29, 2017 13:48:29.87 [916:6556:0829/134829.874:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+8월 29, 2017 14:06:57.63 [916:6408:0829/140657.636:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+8월 29, 2017 15:56:55.09 [916:6408:0829/155655.092:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+8월 30, 2017 10:39:49.05 NEW SESSION
+8월 30, 2017 10:39:49.05 [5616:3348:0830/103949.048:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101

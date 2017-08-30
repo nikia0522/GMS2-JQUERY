@@ -1,0 +1,31 @@
+1501460822763	Move 5 resources to 'WEB-INF'
+1501460835486	Move 'img' to 'css'
+1501460914203	Delete element
+1501460979041	Move 'img' to 'WebContent'
+1501461033853	Delete element
+1501461196342	Delete element
+1501461202052	Delete element
+1501461407429	Delete element
+1501461487448	Delete element
+1501461490797	Delete element
+1501461492865	Delete element
+1501461495531	Delete element
+1501461530518	Delete element
+1501461554508	Delete element
+1501461557526	Delete element
+1501461587950	Move 5 resources to 'WEB-INF'
+1501461633455	Delete element
+1501464239397	Delete elements
+1501465633479	Rename resource 'login.jsp'
+1501465792291	Rename resource 'index.jsp'
+1501469689661	Move 'css' to 'resources'
+1501469692798	Move 'img' to 'resources'
+1501472694520	Move 'view' to 'WEB-INF'
+1501472698717	Move 'board' to 'view'
+1501472706597	Move 'grade' to 'view'
+1501472716273	Move 'member' to 'board'
+1501472727729	Move 'member' to 'view'
+1501472751108	Move 'util' to 'view'
+1501472753559	Move 'common' to 'view'
+1501479547841	Delete element
+1501485721180	Rename type 'Seperator'

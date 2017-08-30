@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="com.gms.web.util.DispatcherServlet"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Separator"/>
+<fullyQualifiedTypeName name="com.gms.web.command.Commandable"/>
+<fullyQualifiedTypeName name="com.gms.web.constants.Extension"/>
+<fullyQualifiedTypeName name="com.gms.web.command.MoveCommand"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.wsdl.writer.document.Service"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="com.gms.web.util.Separator"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="com.gms.web.util.ParamsIterator"/>
+<fullyQualifiedTypeName name="com.gms.web.domain.MemberBean"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.gms.web.service.MemberServiceImpl"/>
+<fullyQualifiedTypeName name="com.gms.web.service.MemberService"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.gms.web.domain.MajorBean"/>
+<fullyQualifiedTypeName name="com.gms.web.constants.DB"/>
+<fullyQualifiedTypeName name="com.gms.web.constants.Action"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.gms.web.proxy.PageProxy"/>
+<fullyQualifiedTypeName name="com.gms.web.proxy.PageHandler"/>
+<fullyQualifiedTypeName name="com.gms.web.proxy.BlockHandler"/>
+<fullyQualifiedTypeName name="lombok.Getter"/>
+<fullyQualifiedTypeName name="lombok.Setter"/>
+<fullyQualifiedTypeName name="com.gms.web.factory.CommandFactory"/>
+<fullyQualifiedTypeName name="com.gms.web.command.Command"/>
+<fullyQualifiedTypeName name="com.gms.web.domain.StudentBean"/>
+</qualifiedTypeNameHistroy>
